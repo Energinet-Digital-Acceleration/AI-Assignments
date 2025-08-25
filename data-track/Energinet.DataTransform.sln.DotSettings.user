@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b3805b3_002D5e81_002D45a8_002Dac21_002D223899788106/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RollingAverageTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b59077b_002D3b87_002D4c4b_002D8724_002Dcb7267a01f4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RollingAverageTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e66755d1_002D81e4_002D4da8_002Da06c_002D1dd15a15643f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RollingAverageTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f800ee3a_002Daa0a_002D4c4a_002D9406_002D00220e1ffa87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RollingAverageTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

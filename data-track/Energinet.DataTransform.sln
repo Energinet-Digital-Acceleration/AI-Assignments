@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A26AD11F-5496-4DF3-B725-B50361903827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energinet.DataTransform.Console", "src\Energinet.DataTransform.Console\Energinet.DataTransform.Console.csproj", "{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5D8D393D-110B-44C8-A6F3-EB3FD8C1552A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energinet.DataTransform.Tests", "tests\Energinet.DataTransform.Tests\Energinet.DataTransform.Tests.csproj", "{B27C3063-8B17-4324-BA9F-0BB9120EE103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27C3063-8B17-4324-BA9F-0BB9120EE103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27C3063-8B17-4324-BA9F-0BB9120EE103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27C3063-8B17-4324-BA9F-0BB9120EE103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27C3063-8B17-4324-BA9F-0BB9120EE103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E8558D1-9637-4626-BBD6-C8BB18D0CFCE} = {A26AD11F-5496-4DF3-B725-B50361903827}
+		{B27C3063-8B17-4324-BA9F-0BB9120EE103} = {5D8D393D-110B-44C8-A6F3-EB3FD8C1552A}
+	EndGlobalSection
+EndGlobal
