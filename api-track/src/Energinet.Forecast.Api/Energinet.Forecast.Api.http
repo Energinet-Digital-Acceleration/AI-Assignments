@@ -1,4 +1,4 @@
-GET http://localhost:5198/weatherforecast/
+GET http://localhost:5198/hej/
 Accept: application/json
 
 ###
