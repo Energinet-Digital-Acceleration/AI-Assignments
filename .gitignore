@@ -56,6 +56,15 @@ nunit-*.xml
 # macOS
 .DS_Store
 
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
 # JetBrains
 .idea/
 *.sln.iml
