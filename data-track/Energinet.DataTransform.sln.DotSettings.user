@@ -9,12 +9,12 @@
     &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e66755d1_002D81e4_002D4da8_002Da06c_002D1dd15a15643f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RollingAverageTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e66755d1_002D81e4_002D4da8_002Da06c_002D1dd15a15643f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RollingAverageTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f800ee3a_002Daa0a_002D4c4a_002D9406_002D00220e1ffa87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RollingAverageTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f800ee3a_002Daa0a_002D4c4a_002D9406_002D00220e1ffa87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RollingAverageTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::B27C3063-8B17-4324-BA9F-0BB9120EE103::net9.0::Energinet.DataTransform.Tests.RollingAverageTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;

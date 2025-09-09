@@ -1,4 +1,3 @@
-using Energinet.DataTransform.Console;
 using FluentAssertions;
 
 namespace Energinet.DataTransform.Tests;
